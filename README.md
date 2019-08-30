@@ -4,7 +4,7 @@
 
  - [Hosted page](https://jeevanreddymure.github.io/about-me/)
 ## introduction
-This publishied page provies information about the tools that helps you out in web devlopment and provides short discription about me.
+This publishied page provides information about the tools which helps you out in web devlopment and  short discription about me.
 ## Recommended tools
 in orderded to publish pages using github all you need is web browser.This page provides you the information about few browsers which i prersonally recommond you to use. Few of them are listed below
 
