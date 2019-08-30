@@ -22,6 +22,7 @@ The list of links below mentioned will provide information about how to install 
 ## contributers
 hello everyone, iam jeevan from india currently graduate at northerst missouri sate university majoring in applied computer science i have done my schooling back in india. included my picture
 
+-(https://github.com/jeevanreddymure/about-me/blob/master/20190823_164712.jpg?raw=true)
 
 
 
